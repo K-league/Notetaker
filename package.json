@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  
+  },
+    "scripts": {
+      "start": "node server.js",
+      "path": "path server.js",
+      "watch": "nodemon server.js"
+    }
+}
